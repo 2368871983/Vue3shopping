@@ -1,4 +1,6 @@
-# heimashopping
+# Vue3shopping
+
+
 
 ## Project setup
 ```
